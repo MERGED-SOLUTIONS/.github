@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/merged-header.png" alt="MERGED — Software & Product Development Studio" width="100%" />
+  <img src="./assets/merged-header.png" alt="MERGED - Software & Product Development Studio" width="100%" />
 </div>
 
 <br />
@@ -30,7 +30,7 @@ We turn ideas into polished digital products through **product thinking, sharp d
 
 **MERGED** is a software and product development studio focused on turning ideas into real, thoughtfully built digital products.
 
-We bring **product thinking, design and engineering** into one process — from defining the right problem to designing, building and delivering the final solution.
+We bring **product thinking, design and engineering** into one process - from defining the right problem to designing, building and delivering the final solution.
 
 <br>
 
@@ -39,17 +39,17 @@ We bring **product thinking, design and engineering** into one process — from 
 
 <td width="25%" valign="top">
 
-### 01 — PRODUCT
+### 01 - PRODUCT
 
 **Build the right thing.**
 
-Clear scope, meaningful features and decisions driven by the actual problem — not unnecessary complexity.
+Clear scope, meaningful features and decisions driven by the actual problem - not unnecessary complexity.
 
 </td>
 
 <td width="25%" valign="top">
 
-### 02 — DESIGN
+### 02 - DESIGN
 
 **Make it feel intentional.**
 
@@ -59,7 +59,7 @@ Clean interfaces, strong hierarchy and consistent visual systems built around us
 
 <td width="25%" valign="top">
 
-### 03 — ENGINEERING
+### 03 - ENGINEERING
 
 **Build it properly.**
 
@@ -69,7 +69,7 @@ Maintainable code, sensible architecture and reliable foundations designed to ev
 
 <td width="25%" valign="top">
 
-### 04 — DELIVERY
+### 04 - DELIVERY
 
 **Turn it into reality.**
 
@@ -83,7 +83,7 @@ From the first concept to production without losing the original product vision 
 <br>
 
 **We don't build features for the sake of shipping features.**  
-We build products that solve the right problem — and are designed to last.
+We build products that solve the right problem - and are designed to last.
 
 <img src="./assets/divider.svg" width="100%" />
 
@@ -131,7 +131,7 @@ Backend systems, APIs, integrations, databases, CI/CD and infrastructure.
 ## **HOW WE WORK**
 
 <div align="center">
-  <img src="./assets/how-we-work.png" alt="MERGED process — Idea, Shape, Build, Launch" width="100%" />
+  <img src="./assets/how-we-work.png" alt="MERGED process - Idea, Shape, Build, Launch" width="100%" />
 </div>
 
 <br />
@@ -166,7 +166,7 @@ Understand the problem. Define the right solution. Build it properly. Ship somet
 
 <br />
 
-> We choose technology based on the product and its constraints — not because a framework is currently fashionable.
+> We choose technology based on the product and its constraints - not because a framework is currently fashionable.
 
 <img src="./assets/divider.svg" width="100%" />
 
@@ -177,7 +177,7 @@ Understand the problem. Define the right solution. Build it properly. Ship somet
 <td width="50%" valign="top">
 
 ### 🟠 **PRODUCT OVER FEATURES**
-We care about whether something should exist, how it should work and what value it creates — not only whether it can be coded.
+We care about whether something should exist, how it should work and what value it creates - not only whether it can be coded.
 
 </td>
 <td width="50%" valign="top">
@@ -244,5 +244,5 @@ We bring together **product thinking, design and engineering** and turn it into 
 <br />
 
 <div align="center">
-  <img src="./assets/merged-footer.png" alt="Let's build something real — The link between idea and product — info@merged.sk" width="100%" />
+  <img src="./assets/merged-footer.png" alt="Let's build something real - The link between idea and product - info@merged.sk" width="100%" />
 </div>
