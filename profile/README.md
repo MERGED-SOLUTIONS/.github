@@ -1,5 +1,10 @@
+<!--
+GitHub sanitizes custom CSS in README files, so a page-level black background cannot be forced reliably.
+The branded image panels below therefore carry the black/orange visual identity, while the text remains native and readable in both GitHub themes.
+-->
+
 <div align="center">
-  <img src="./assets/merged-header.png" alt="MERGED" width="100%" />
+  <img src="./assets/merged-header.png" alt="MERGED — Software & Product Development Studio" width="100%" />
 </div>
 
 <br />
@@ -12,11 +17,11 @@ We turn ideas into polished digital products through **product thinking, sharp d
 
 <br />
 
-![WEB](https://img.shields.io/badge/WEB-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white)
-![MOBILE](https://img.shields.io/badge/MOBILE-111111?style=for-the-badge&logo=android&logoColor=FF6A00)
-![BACKEND](https://img.shields.io/badge/BACKEND-FF6A00?style=for-the-badge&logo=spring&logoColor=white)
-![DEVOPS](https://img.shields.io/badge/DEVOPS-111111?style=for-the-badge&logo=docker&logoColor=FF6A00)
-![PRODUCT DESIGN](https://img.shields.io/badge/PRODUCT_DESIGN-FF6A00?style=for-the-badge&logo=figma&logoColor=white)
+![WEB](https://img.shields.io/badge/WEB-FF6A00?style=for-the-badge)
+![MOBILE](https://img.shields.io/badge/MOBILE-111111?style=for-the-badge)
+![BACKEND](https://img.shields.io/badge/BACKEND-FF6A00?style=for-the-badge)
+![INFRASTRUCTURE](https://img.shields.io/badge/INFRASTRUCTURE-111111?style=for-the-badge)
+![PRODUCT DESIGN](https://img.shields.io/badge/PRODUCT_DESIGN-FF6A00?style=for-the-badge)
 
 </div>
 
@@ -28,7 +33,7 @@ We turn ideas into polished digital products through **product thinking, sharp d
 
 **MERGED** is a software and product development studio focused on building real digital products — from the first rough idea to a production-ready solution.
 
-We combine **design, engineering and product thinking** in one process. The goal is not to ship more features. The goal is to build the right product, build it properly, and make it useful.
+We combine **design, engineering and product thinking** in one process. The point is not to ship more features. The point is to build the right product, build it properly, and make it useful.
 
 <table>
 <tr>
@@ -67,7 +72,7 @@ From concept to launch without losing the original product vision.
 <tr>
 <td width="25%" valign="top">
 
-![PRODUCT](https://img.shields.io/badge/PRODUCT_DEVELOPMENT-FF6A00?style=for-the-badge)
+<img src="./assets/icon-product.svg" width="34" alt="Product development" />
 
 ### **PRODUCT DEVELOPMENT**
 From early concept and validation to a complete digital product.
@@ -75,7 +80,7 @@ From early concept and validation to a complete digital product.
 </td>
 <td width="25%" valign="top">
 
-![WEB](https://img.shields.io/badge/WEB_APPLICATIONS-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="./assets/icon-web.svg" width="34" alt="Web applications" />
 
 ### **WEB APPLICATIONS**
 Fast, modern and carefully designed websites and web products.
@@ -83,7 +88,7 @@ Fast, modern and carefully designed websites and web products.
 </td>
 <td width="25%" valign="top">
 
-![MOBILE](https://img.shields.io/badge/MOBILE_APPS-FF6A00?style=for-the-badge&logo=kotlin&logoColor=white)
+<img src="./assets/icon-mobile.svg" width="34" alt="Mobile development" />
 
 ### **MOBILE DEVELOPMENT**
 Cross-platform applications built around usability and maintainable architecture.
@@ -91,7 +96,7 @@ Cross-platform applications built around usability and maintainable architecture
 </td>
 <td width="25%" valign="top">
 
-![SYSTEMS](https://img.shields.io/badge/ENGINEERING_%26_INFRA-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+<img src="./assets/icon-engineering.svg" width="34" alt="Engineering and infrastructure" />
 
 ### **ENGINEERING & INFRA**
 Backend systems, APIs, integrations, databases, CI/CD and infrastructure.
@@ -105,7 +110,7 @@ Backend systems, APIs, integrations, databases, CI/CD and infrastructure.
 ## **HOW WE WORK**
 
 <div align="center">
-  <img src="./assets/how-we-work.png" alt="MERGED product process — Idea, Shape, Build, Launch" width="100%" />
+  <img src="./assets/how-we-work.png" alt="MERGED process — Idea, Shape, Build, Launch" width="100%" />
 </div>
 
 <br />
@@ -128,32 +133,17 @@ Understand the problem. Define the right solution. Build it properly. Ship somet
 
 ### **WEB FIRST**
 
-<img src="https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,nodejs&perline=5" alt="Web technology stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nextjs,nodejs&perline=6" alt="TypeScript, JavaScript, React, Tailwind CSS, Next.js and Node.js" />
 
 <br /><br />
 
 ### **MOBILE · BACKEND · DATA · INFRA**
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,spring,postgres,docker,figma,git&perline=7" alt="Mobile, backend, data and infrastructure stack" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,spring,postgres,docker,figma,git&perline=7" alt="Kotlin, Java, Spring, PostgreSQL, Docker, Figma and Git" />
 
 </div>
 
 <br />
-
-<div align="center">
-
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![REACT](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TAILWIND](https://img.shields.io/badge/TAILWIND-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-E76F00?style=flat-square&logo=openjdk&logoColor=white)
-![SPRING](https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
 
 > We choose technology based on the product and its constraints — not because a framework is currently fashionable.
 
@@ -212,14 +202,10 @@ Maintainable software, sensible architecture and products ready for real users.
 Public case studies and selected repositories will be added here as MERGED grows.
 
 <!--
-Example project card:
-
-### **PROJECT NAME**
+### PROJECT NAME
 A short, concrete sentence explaining what the product does and what MERGED delivered.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+`TypeScript` `React` `Tailwind CSS` `Docker`
 
 [**VIEW PROJECT →**](https://github.com/YOUR_ORG/YOUR_REPO)
 -->
@@ -232,8 +218,10 @@ Have an idea, product or technical problem worth solving?
 
 We bring together **product thinking, design and engineering** and turn it into something usable, maintainable and ready to ship.
 
+**GET IN TOUCH:** [info@merged.sk](mailto:info@merged.sk)
+
 <br />
 
 <div align="center">
-  <img src="./assets/merged-footer.png" alt="Let's build something real." width="100%" />
+  <img src="./assets/merged-footer.png" alt="Let's build something real — The link between idea and product — info@merged.sk" width="100%" />
 </div>
