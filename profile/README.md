@@ -1,152 +1,239 @@
 <div align="center">
-  <img src="./assets/merged-header.png" alt="MERGED — The link between idea and product." width="100%" />
+  <img src="./assets/merged-header.png" alt="MERGED" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
 
-### Software & Product Development Studio
+# **SOFTWARE & PRODUCT DEVELOPMENT STUDIO**
 
-We turn ideas into polished digital products through thoughtful design, modern engineering, and a product-first mindset.
+We turn ideas into polished digital products through **product thinking, sharp design and modern engineering**.
 
 <br />
 
-![Software](https://img.shields.io/badge/SOFTWARE-0A0A0A?style=for-the-badge)
-![Product](https://img.shields.io/badge/PRODUCT-FF6A00?style=for-the-badge)
-![Design](https://img.shields.io/badge/DESIGN-0A0A0A?style=for-the-badge)
-![Engineering](https://img.shields.io/badge/ENGINEERING-FF6A00?style=for-the-badge)
+![WEB](https://img.shields.io/badge/WEB-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white)
+![MOBILE](https://img.shields.io/badge/MOBILE-111111?style=for-the-badge&logo=android&logoColor=FF6A00)
+![BACKEND](https://img.shields.io/badge/BACKEND-FF6A00?style=for-the-badge&logo=spring&logoColor=white)
+![DEVOPS](https://img.shields.io/badge/DEVOPS-111111?style=for-the-badge&logo=docker&logoColor=FF6A00)
+![PRODUCT DESIGN](https://img.shields.io/badge/PRODUCT_DESIGN-FF6A00?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
----
+<br />
 
-## About MERGED
+<img src="./assets/divider.svg" width="100%" />
 
-**MERGED** is a software and product development studio focused on turning ideas into real, useful digital products.
+## **ABOUT MERGED**
 
-We connect **product thinking, design, and engineering** into one clear process — from the first idea to a production-ready result.
+**MERGED** is a software and product development studio focused on building real digital products — from the first rough idea to a production-ready solution.
 
-> **The link between idea and product.**
-
----
-
-## What we build
+We combine **design, engineering and product thinking** in one process. The goal is not to ship more features. The goal is to build the right product, build it properly, and make it useful.
 
 <table>
-  <tr>
-    <td width="25%" valign="top">
-      <h3>◈ Product Development</h3>
-      <p>From early concept and product definition to a complete digital product.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>⌘ Web</h3>
-      <p>Modern, fast and carefully designed websites and web applications.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>▣ Mobile</h3>
-      <p>Cross-platform mobile products with a focus on usability and maintainable architecture.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>⚙ Engineering</h3>
-      <p>Backend systems, integrations, infrastructure and reliable software foundations.</p>
-    </td>
-  </tr>
+<tr>
+<td width="25%" valign="top">
+
+### **PRODUCT**
+Clear scope, useful features and decisions based on the actual problem.
+
+</td>
+<td width="25%" valign="top">
+
+### **DESIGN**
+Clean interfaces with strong hierarchy, usability and visual consistency.
+
+</td>
+<td width="25%" valign="top">
+
+### **ENGINEERING**
+Maintainable code, sensible architecture and reliable foundations.
+
+</td>
+<td width="25%" valign="top">
+
+### **DELIVERY**
+From concept to launch without losing the original product vision.
+
+</td>
+</tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## How we work
+## **WHAT WE BUILD**
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+![PRODUCT](https://img.shields.io/badge/PRODUCT_DEVELOPMENT-FF6A00?style=for-the-badge)
+
+### **PRODUCT DEVELOPMENT**
+From early concept and validation to a complete digital product.
+
+</td>
+<td width="25%" valign="top">
+
+![WEB](https://img.shields.io/badge/WEB_APPLICATIONS-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **WEB APPLICATIONS**
+Fast, modern and carefully designed websites and web products.
+
+</td>
+<td width="25%" valign="top">
+
+![MOBILE](https://img.shields.io/badge/MOBILE_APPS-FF6A00?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### **MOBILE DEVELOPMENT**
+Cross-platform applications built around usability and maintainable architecture.
+
+</td>
+<td width="25%" valign="top">
+
+![SYSTEMS](https://img.shields.io/badge/ENGINEERING_%26_INFRA-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+### **ENGINEERING & INFRA**
+Backend systems, APIs, integrations, databases, CI/CD and infrastructure.
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## **HOW WE WORK**
+
+<div align="center">
+  <img src="./assets/how-we-work.png" alt="MERGED product process — Idea, Shape, Build, Launch" width="100%" />
+</div>
+
+<br />
 
 <div align="center">
 
-**01 — IDEA** &nbsp;&nbsp;→&nbsp;&nbsp; **02 — SHAPE** &nbsp;&nbsp;→&nbsp;&nbsp; **03 — BUILD** &nbsp;&nbsp;→&nbsp;&nbsp; **04 — LAUNCH**
+**IDEA → SHAPE → BUILD → LAUNCH**
+
+Understand the problem. Define the right solution. Build it properly. Ship something real.
 
 </div>
 
 <br />
 
-| Stage | What it means |
-|---|---|
-| **Idea** | Understand the problem, users, goals and constraints. |
-| **Shape** | Define the solution, scope, architecture and visual direction. |
-| **Build** | Design and engineer the product with a focus on quality and maintainability. |
-| **Launch** | Ship, validate, improve and keep moving the product forward. |
+<img src="./assets/divider.svg" width="100%" />
 
----
-
-## Technology
+## **TECHNOLOGY**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,spring,ts,nextjs,postgres,docker,githubactions,figma,git&perline=10" alt="MERGED technology stack" />
+### **WEB FIRST**
+
+<img src="https://skillicons.dev/icons?i=ts,react,tailwind,nextjs,nodejs&perline=5" alt="Web technology stack" />
+
+<br /><br />
+
+### **MOBILE · BACKEND · DATA · INFRA**
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,spring,postgres,docker,figma,git&perline=7" alt="Mobile, backend, data and infrastructure stack" />
 
 </div>
 
 <br />
 
-We choose technology based on the product — not the other way around.
+<div align="center">
 
-Our work spans **mobile development, backend engineering, web products, infrastructure, DevOps and product design**.
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TAILWIND](https://img.shields.io/badge/TAILWIND-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![SPRING](https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FIGMA](https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+</div>
 
-## Our principles
+> We choose technology based on the product and its constraints — not because a framework is currently fashionable.
 
-**Product over features.**  
-We care about whether the thing should exist, how it should work, and what value it creates — not only whether it can be coded.
+<img src="./assets/divider.svg" width="100%" />
 
-**Design and engineering belong together.**  
-Good products are built when visual quality, usability and technical decisions support each other.
+## **OUR PRINCIPLES**
 
-**Keep it intentional.**  
-Less noise. Clear decisions. Clean execution.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Build for reality.**  
-Software should be maintainable, scalable where needed, and ready for real users.
+### 🟠 **PRODUCT OVER FEATURES**
+We care about whether something should exist, how it should work and what value it creates — not only whether it can be coded.
 
----
+</td>
+<td width="50%" valign="top">
 
-## Selected work
+### 🔗 **DESIGN + ENGINEERING**
+Visual quality, usability and technical decisions should support each other from day one.
 
-We are building this section as MERGED grows.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Our portfolio includes work across:
+### ⚡ **KEEP IT INTENTIONAL**
+Less noise. Clearer decisions. Strong hierarchy. Clean execution.
 
-- web products and websites
-- mobile applications
-- backend systems
-- DevOps and infrastructure
-- AI / LLM-oriented experiments
-- product and interface design
+</td>
+<td width="50%" valign="top">
+
+### 🚀 **BUILD FOR REALITY**
+Maintainable software, sensible architecture and products ready for real users.
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## **SELECTED WORK**
+
+<div align="center">
+
+![WEB](https://img.shields.io/badge/WEB_PRODUCTS-FF6A00?style=for-the-badge)
+![MOBILE](https://img.shields.io/badge/MOBILE_APPS-111111?style=for-the-badge)
+![BACKEND](https://img.shields.io/badge/BACKEND_SYSTEMS-FF6A00?style=for-the-badge)
+![DEVOPS](https://img.shields.io/badge/DEVOPS_%26_INFRA-111111?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI_%2F_LLM-FF6A00?style=for-the-badge)
+![DESIGN](https://img.shields.io/badge/PRODUCT_DESIGN-111111?style=for-the-badge)
+
+</div>
+
+<br />
+
+Public case studies and selected repositories will be added here as MERGED grows.
 
 <!--
-When you have public case studies, replace the section above with cards like:
+Example project card:
 
-### Project Name
-Short one-line description.
+### **PROJECT NAME**
+A short, concrete sentence explaining what the product does and what MERGED delivered.
 
-`Kotlin` `Spring` `PostgreSQL` `Docker`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[View project →](https://github.com/YOUR_ORG/YOUR_REPO)
+[**VIEW PROJECT →**](https://github.com/YOUR_ORG/YOUR_REPO)
 -->
 
----
+<img src="./assets/divider.svg" width="100%" />
 
-## Build with us
+## **BUILD WITH US**
 
-Have an idea, product, or problem worth solving?
+Have an idea, product or technical problem worth solving?
 
-We bring together **thinking, design and engineering** to move it from concept to something real.
-
-<div align="center">
-
-### The link between **idea** and **product**.
-
-</div>
+We bring together **product thinking, design and engineering** and turn it into something usable, maintainable and ready to ship.
 
 <br />
 
 <div align="center">
-  <img src="./assets/merged-footer.png" alt="MERGED — The link between idea and product." width="100%" />
+  <img src="./assets/merged-footer.png" alt="Let's build something real." width="100%" />
 </div>
