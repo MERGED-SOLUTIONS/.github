@@ -1,8 +1,3 @@
-<!--
-GitHub sanitizes custom CSS in README files, so a page-level black background cannot be forced reliably.
-The branded image panels below therefore carry the black/orange visual identity, while the text remains native and readable in both GitHub themes.
--->
-
 <div align="center">
   <img src="./assets/merged-header.png" alt="MERGED — Software & Product Development Studio" width="100%" />
 </div>
@@ -31,38 +26,64 @@ We turn ideas into polished digital products through **product thinking, sharp d
 
 ## **ABOUT MERGED**
 
-**MERGED** is a software and product development studio focused on building real digital products — from the first rough idea to a production-ready solution.
+> **From the first idea to a production-ready digital product.**
 
-We combine **design, engineering and product thinking** in one process. The point is not to ship more features. The point is to build the right product, build it properly, and make it useful.
+**MERGED** is a software and product development studio focused on turning ideas into real, thoughtfully built digital products.
+
+We bring **product thinking, design and engineering** into one process — from defining the right problem to designing, building and delivering the final solution.
+
+<br>
 
 <table>
 <tr>
+
 <td width="25%" valign="top">
 
-### **PRODUCT**
-Clear scope, useful features and decisions based on the actual problem.
+### 01 — PRODUCT
+
+**Build the right thing.**
+
+Clear scope, meaningful features and decisions driven by the actual problem — not unnecessary complexity.
 
 </td>
+
 <td width="25%" valign="top">
 
-### **DESIGN**
-Clean interfaces with strong hierarchy, usability and visual consistency.
+### 02 — DESIGN
+
+**Make it feel intentional.**
+
+Clean interfaces, strong hierarchy and consistent visual systems built around usability.
 
 </td>
+
 <td width="25%" valign="top">
 
-### **ENGINEERING**
-Maintainable code, sensible architecture and reliable foundations.
+### 03 — ENGINEERING
+
+**Build it properly.**
+
+Maintainable code, sensible architecture and reliable foundations designed to evolve with the product.
 
 </td>
+
 <td width="25%" valign="top">
 
-### **DELIVERY**
-From concept to launch without losing the original product vision.
+### 04 — DELIVERY
+
+**Turn it into reality.**
+
+From the first concept to production without losing the original product vision along the way.
 
 </td>
+
 </tr>
 </table>
+
+<br>
+
+**We don't build features for the sake of shipping features.**  
+We build products that solve the right problem — and are designed to last.
 
 <img src="./assets/divider.svg" width="100%" />
 
