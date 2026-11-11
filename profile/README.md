@@ -39,7 +39,7 @@ We bring **product thinking, design and engineering** into one process - from de
 
 <td width="25%" valign="top">
 
-### 01 - PRODUCT
+### PRODUCT
 
 **Build the right thing.**
 
@@ -49,7 +49,7 @@ Clear scope, meaningful features and decisions driven by the actual problem - no
 
 <td width="25%" valign="top">
 
-### 02 - DESIGN
+### DESIGN
 
 **Make it feel intentional.**
 
@@ -59,7 +59,7 @@ Clean interfaces, strong hierarchy and consistent visual systems built around us
 
 <td width="25%" valign="top">
 
-### 03 - ENGINEERING
+### ENGINEERING
 
 **Build it properly.**
 
@@ -69,7 +69,7 @@ Maintainable code, sensible architecture and reliable foundations designed to ev
 
 <td width="25%" valign="top">
 
-### 04 - DELIVERY
+### DELIVERY
 
 **Turn it into reality.**
 
@@ -176,13 +176,13 @@ Understand the problem. Define the right solution. Build it properly. Ship somet
 <tr>
 <td width="50%" valign="top">
 
-### 🟠 **PRODUCT OVER FEATURES**
+### **PRODUCT OVER FEATURES**
 We care about whether something should exist, how it should work and what value it creates - not only whether it can be coded.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 **DESIGN + ENGINEERING**
+### **DESIGN + ENGINEERING**
 Visual quality, usability and technical decisions should support each other from day one.
 
 </td>
@@ -190,13 +190,13 @@ Visual quality, usability and technical decisions should support each other from
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ **KEEP IT INTENTIONAL**
+### **KEEP IT INTENTIONAL**
 Less noise. Clearer decisions. Strong hierarchy. Clean execution.
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 **BUILD FOR REALITY**
+### **BUILD FOR REALITY**
 Maintainable software, sensible architecture and products ready for real users.
 
 </td>
